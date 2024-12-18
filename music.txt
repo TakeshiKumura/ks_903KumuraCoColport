@@ -1,0 +1,6 @@
+:: テキスト表記はインストール方法は「pip install -r music.txt」
+:: テキスト　music.txt
+pygame
+mutagen
+tk
+yt_dlp
